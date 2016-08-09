@@ -1,0 +1,24 @@
+.fondo1{
+	background-color: black;
+	height: 30px;
+}
+.boton{
+	background-color: gray;
+	border-radius: 15%;
+	margin-left: 10px;
+}
+.boton2{
+	background-color: gray;
+	border-radius: 15%;
+	padding: 10px;
+	margin-bottom: 80px;
+}
+footer{
+	background-color: black;
+	height: auto;
+	color: white;
+
+}
+.red{
+	color: red;
+}
